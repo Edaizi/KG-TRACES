@@ -8,6 +8,7 @@
 
 
 Welcome to the official repository for **KG-TRACES**! 🚀 We're enhancing Large Language Models to reason with **explainable**, **accuracy**, and **traceability** by leveraging the power of Knowledge Graphs.
+
 ---
 
 ## 🎯 The Challenge: LLMs Lost in Thought?
