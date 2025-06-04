@@ -1,0 +1,2 @@
+export CUDA_VISIBLE_DEVICES=0,1,2,3
+vllm serve models/KG-TRACES --tensor-parallel-size 4 --served-model-name KG-TRACES --host 0.0.0.0 --port 8000 --max-model-len 16384 --uvicorn-log-level debug --disable-log-requests
