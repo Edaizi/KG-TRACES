@@ -54,6 +54,9 @@ KG-TRACES is a novel framework that explicitly teaches LLMs *how* to reason by s
 *   🌍 **Versatile**: Shows strong generalization to specialized fields like medicine.
 
 
+---
+
+
 ## 💬 Chat cases:
 <p align="center">
   <img src="assets/qa_result_case.png" width="750" alt="KG-TRACES Method Overview">
